@@ -2,7 +2,7 @@
   "name": "Nodejs_Class_00",
   "version": "0.1.0",
   "description": "Nodejs_Class_00",
-  "main": "hello-world-server.js",
+  "main": "Nodejs_Class_00.js",
   "scripts": {
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
   },
